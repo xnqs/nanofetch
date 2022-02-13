@@ -72,7 +72,3 @@ void trim_left(char *dest, int amt) {
     ptr += amt;
     strcpy(dest,ptr);
 }
-
-void get_packages(char *packages, char *cmd) {
-
-}
